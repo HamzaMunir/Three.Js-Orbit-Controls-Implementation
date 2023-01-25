@@ -1,0 +1,24 @@
+#gpt3d-canvas {
+  width: 500px;
+  height: 500px;
+  position: relative;
+}
+
+textarea {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 480px;
+  height: 80px;
+}
+
+button {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  display: inline-block;
+}
+
+#refresh {
+  margin-left: 110px;
+}
